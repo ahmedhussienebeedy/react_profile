@@ -1,0 +1,36 @@
+.cursor{
+  cursor: pointer;
+  background-color: rgb(44, 63, 81);
+  
+}
+
+.copyright{
+  background-color: rgb(26, 37, 47);
+}
+.active{
+  padding: 5px;
+  border-radius: 10px;
+  background-color: rgb(25, 188, 156);
+  
+}
+.bg-custom {
+  background-color: rgb(26, 188, 157);
+}
+
+.text-custom {
+  background-color: rgb(26, 188, 157);
+}
+.navh{
+  height: 55px;
+}
+.marginTop{
+  margin-top: 200px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+
